@@ -1,0 +1,7 @@
+{
+  "name": "momapy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
